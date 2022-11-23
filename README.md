@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mlndev
 - 👀 I’m interested in Lua coding.
 - 🌱 I’m currently learning Lua.
-- 💞️ I’m currently working on TDMA.
+- 💞️ I’m currently working on MGS.
 - 📫 How to reach me: you can't. mlndev#6025
 
 <!---
